@@ -18,8 +18,5 @@ This project is an interactive Sales Dashboard created using Power BI.
 - SQL
 - Excel
 
-## Dashboard Screenshot
-(Add screenshot here)
-
 ## Author
 Dushyant Pundir
